@@ -71,7 +71,30 @@ class IndexPageController extends Controller
      * @return \Illuminate\Contracts\View\Factory|\Illuminate\View\View
      */
     public static function renderPortfolio(){
-        return view('page/index/portfolio', compact([]));
+
+        $categorys=[
+            'egyes',
+            'kettes',
+            'harmas',
+        ];
+
+        $images = [
+            '/images/index/example/6-problems-the-construction-industry-should-resolve-1.jpeg',
+            '/images/index/example/362537.jpg',
+            '/images/index/example/vedelmi_sityak.jpg',
+            '/images/index/example/vedelmi_sityak.jpg',
+            '/images/index/example/Basic-Personal-Protective-Equipment-PPE-for-Construction-Workers.jpg',
+            '/images/index/example/Blueprint.jpg',
+            '/images/index/example/CAPESTONE-CONSTRUCTION.jpg',
+            '/images/index/example/cc6b0005e8c94a3a93eb34bcc8925349.jpg',
+            '/images/index/example/construction.jpg',
+
+        ];
+
+
+
+
+            return view('page/index/portfolio', compact('images','categorys'))->render();
     }
     /**
      * @return \Illuminate\Contracts\View\Factory|\Illuminate\View\View

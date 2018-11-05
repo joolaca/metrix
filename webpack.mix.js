@@ -36,7 +36,7 @@ const mix = require('laravel-mix');
 */
 
 if (mix.inProduction) {
-    mix.styles([
+    mix.styles([ // admin css
         'resources/assets/metronic/global/plugins/font-awesome/css/font-awesome.css',
         'resources/assets/metronic/global/plugins/bootstrap/css/bootstrap.min.css',
         'resources/assets/metronic/global/plugins/simple-line-icons/simple-line-icons.min.css',
@@ -61,7 +61,7 @@ if (mix.inProduction) {
     ], 'public/css/admin_assets.css')
     ;
 
-    mix.scripts([
+    mix.scripts([ //admin js
         'resources/assets/metronic/global/plugins/jquery.min.js',
         'resources/assets/metronic/global/plugins/jquery-ui/jquery-ui.min.js',
         'resources/assets/metronic/global/plugins/bootstrap/js/bootstrap.min.js',
@@ -83,6 +83,27 @@ if (mix.inProduction) {
         'resources/assets/metronic/global/plugins/jstree/jstree.min.js',
         'resources/assets/metronic/pages/scripts/ui-tree.min.js',
     ], 'public/js/admin/admin_assets.js');
+
+    mix.styles([ // page assets css
+        'resources/assets/touche/css/bootstrap.css',
+        'resources/assets/touche/fonts/font-awesome/css/font-awesome.css',
+        'resources/assets/touche/css/style.css',
+        'resources/assets/touche/css/nivo-lightbox/nivo-lightbox.css',
+        'resources/assets/touche/css/nivo-lightbox/default.css',
+
+    ], 'public/css/assets.css')
+    ;
+
+    mix.scripts([ //page assets js
+        'resources/assets/touche/js/jquery.1.11.1.js',
+        'resources/assets/touche/js/bootstrap.js',
+        'resources/assets/touche/js/nivo-lightbox.js',
+        'resources/assets/touche/js/jquery.isotope.js',
+        'resources/assets/touche/js/jqBootstrapValidation.js',
+        'resources/assets/touche/js/contact_me.js',
+        'resources/assets/touche/js/SmoothScroll.js',
+        'resources/assets/touche/js/main.js',
+    ], 'public/js/assets.js');
 }
 
 /*
@@ -91,11 +112,6 @@ mix.js('resources/js/app.js', 'public/js')
 */
 
 /*
-
-npm run watch-production
-
-
-
 
 mix.js('resources/js/app.js', 'public/js')
    .sourceMaps();

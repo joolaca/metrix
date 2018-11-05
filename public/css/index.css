@@ -1,3 +1,56 @@
 .intro{
     background-image: url('/images/index/intro-bg.jpg');
 }
+
+
+#team {
+    background: #444 url('/images/index/example/szeles_1.jpg') center top no-repeat fixed
+}
+
+#portfolio .section-title {
+    background: #444 url(/images/index/example/szeles_3.jpg) center center no-repeat fixed
+}
+
+#restaurant-menu .section-title {
+    background: #444 url(/images/index/example/szeles_3.jpg) center center no-repeat fixed;
+}
+
+.intro h1 {
+    font-family: Ariel !important;
+    font-size: 80px;
+    color: #F3741E;
+}
+.intro p{
+    color: white ;
+    /*text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;*/
+}
+#logo_menu_contaier {
+    color: #F3741E;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#logo_menu_img{
+    height: 50px;
+}
+.btn-custom, ol.type li a.active,hr {
+    background-color: #F3741E;
+
+}
+
+.btn-custom:hover{
+    background-color: #8e4600;
+}
+
+.navbar-default .navbar-nav>.active>a, #footer h3{
+    color: #F3741E!important;
+}
+
+#call-reservation, #footer .copyrights {
+    background: #8eb640;
+    background: -moz-linear-gradient(top,rgba(243,116,30,1) 50%,rgba(166,82,0,1) 100%);
+    background: -webkit-linear-gradient(top,rgba(243,116,30,1) 50%,rgba(166,82,0,1) 100%);
+    background: linear-gradient(to bottom,rgba(243,116,30,1) 50%,rgba(166,82,0,1) 100%);
+}
+
+

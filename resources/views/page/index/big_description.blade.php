@@ -2,119 +2,22 @@
 <div id="restaurant-menu">
     <div class="section-title text-center center">
         <div class="overlay">
-            <h2>Menu</h2>
+            <h2>Bővebb sszöveg jön ide</h2>
             <hr>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed.</p>
         </div>
     </div>
     <div class="container">
-        <div class="row">
-            <div class="col-xs-12 col-sm-6">
-                <div class="menu-section">
-                    <h2 class="menu-section-title">Breakfast & Starters</h2>
-                    <hr>
-                    <div class="menu-item">
-                        <div class="menu-item-name"> Delicious Dish </div>
-                        <div class="menu-item-price"> $35 </div>
-                        <div class="menu-item-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, duis sed dapibus leo nec ornare diam. </div>
-                    </div>
-                    <div class="menu-item">
-                        <div class="menu-item-name"> Delicious Dish </div>
-                        <div class="menu-item-price"> $30 </div>
-                        <div class="menu-item-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, duis sed dapibus leo nec ornare diam. </div>
-                    </div>
-                    <div class="menu-item">
-                        <div class="menu-item-name"> Delicious Dish </div>
-                        <div class="menu-item-price"> $30 </div>
-                        <div class="menu-item-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, duis sed dapibus leo nec ornare diam. </div>
-                    </div>
-                    <div class="menu-item">
-                        <div class="menu-item-name"> Delicious Dish </div>
-                        <div class="menu-item-price"> $30 </div>
-                        <div class="menu-item-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, duis sed dapibus leo nec ornare diam. </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xs-12 col-sm-6">
-                <div class="menu-section">
-                    <h2 class="menu-section-title">Main Course</h2>
-                    <hr>
-                    <div class="menu-item">
-                        <div class="menu-item-name"> Delicious Dish </div>
-                        <div class="menu-item-price"> $45 </div>
-                        <div class="menu-item-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, duis sed dapibus leo nec ornare diam. </div>
-                    </div>
-                    <div class="menu-item">
-                        <div class="menu-item-name"> Delicious Dish </div>
-                        <div class="menu-item-price"> $30 </div>
-                        <div class="menu-item-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, duis sed dapibus leo nec ornare diam. </div>
-                    </div>
-                    <div class="menu-item">
-                        <div class="menu-item-name"> Delicious Dish </div>
-                        <div class="menu-item-price"> $30 </div>
-                        <div class="menu-item-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, duis sed dapibus leo nec ornare diam. </div>
-                    </div>
-                    <div class="menu-item">
-                        <div class="menu-item-name"> Delicious Dish </div>
-                        <div class="menu-item-price"> $30 </div>
-                        <div class="menu-item-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, duis sed dapibus leo nec ornare diam. </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-xs-12 col-sm-6">
-                <div class="menu-section">
-                    <h2 class="menu-section-title">Dinner</h2>
-                    <hr>
-                    <div class="menu-item">
-                        <div class="menu-item-name"> Delicious Dish </div>
-                        <div class="menu-item-price"> $45 </div>
-                        <div class="menu-item-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, duis sed dapibus leo nec ornare diam. </div>
-                    </div>
-                    <div class="menu-item">
-                        <div class="menu-item-name"> Delicious Dish </div>
-                        <div class="menu-item-price"> $350 </div>
-                        <div class="menu-item-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, duis sed dapibus leo nec ornare diam. </div>
-                    </div>
-                    <div class="menu-item">
-                        <div class="menu-item-name"> Delicious Dish </div>
-                        <div class="menu-item-price"> $30 </div>
-                        <div class="menu-item-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, duis sed dapibus leo nec ornare diam.. </div>
-                    </div>
-                    <div class="menu-item">
-                        <div class="menu-item-name"> Delicious Dish </div>
-                        <div class="menu-item-price"> $30 </div>
-                        <div class="menu-item-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, duis sed dapibus leo nec ornare diam. </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-xs-12 col-sm-6">
-                <div class="menu-section">
-                    <h2 class="menu-section-title">Coffee & Drinks</h2>
-                    <hr>
-                    <div class="menu-item">
-                        <div class="menu-item-name"> Delicious Dish </div>
-                        <div class="menu-item-price"> $35 </div>
-                        <div class="menu-item-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, duis sed dapibus leo nec ornare diam. </div>
-                    </div>
-                    <div class="menu-item">
-                        <div class="menu-item-name"> Delicious Dish </div>
-                        <div class="menu-item-price"> $30 </div>
-                        <div class="menu-item-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, duis sed dapibus leo nec ornare diam. </div>
-                    </div>
-                    <div class="menu-item">
-                        <div class="menu-item-name"> Delicious Dish </div>
-                        <div class="menu-item-price"> $30 </div>
-                        <div class="menu-item-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, duis sed dapibus leo nec ornare diam. </div>
-                    </div>
-                    <div class="menu-item">
-                        <div class="menu-item-name"> Delicious Dish </div>
-                        <div class="menu-item-price"> $30 </div>
-                        <div class="menu-item-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, duis sed dapibus leo nec ornare diam. </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim ipsum a ullamcorper euismod. Curabitur tincidunt rutrum blandit. In elit purus, venenatis in bibendum quis, aliquam et magna. Maecenas commodo, nibh a ultricies condimentum, quam leo blandit mi, id viverra metus ligula dignissim purus. Sed sed tortor id quam maximus imperdiet. Nullam nec hendrerit nisl. Cras congue tortor et tellus luctus, at blandit ante auctor. Phasellus laoreet purus justo, vel sollicitudin purus tristique et. Mauris eleifend, eros tincidunt scelerisque facilisis, felis sapien hendrerit sapien, rhoncus aliquam arcu elit eget felis. Sed posuere, dui ac suscipit ultrices, justo velit facilisis sem, vitae hendrerit mi nisi et ligula. Mauris ornare ultricies enim eu sodales.
+        <br>
+        Vestibulum luctus metus et tortor gravida, eu feugiat nisl tristique. Nunc tristique hendrerit sodales. Aenean in magna orci. Vestibulum tempor egestas neque, ut aliquet magna. Nulla nec auctor massa, non eleifend enim. Nunc condimentum sodales enim sit amet pretium. Cras pulvinar leo efficitur risus bibendum, sit amet viverra lacus sollicitudin. Fusce cursus lacus risus, a mollis dolor aliquam id. Quisque ut tincidunt dolor. Mauris tempus neque in lacus porttitor, et fermentum eros luctus. Fusce rhoncus facilisis volutpat. Pellentesque ut orci dapibus, euismod felis ut, vehicula est. Vestibulum vitae arcu eu elit pretium interdum. Ut pharetra pellentesque augue. Aenean vulputate magna vel ex posuere, in efficitur justo facilisis. Duis commodo nibh ipsum, quis auctor elit tempor vitae.
+        <br>
+        Proin ultrices, augue tristique luctus convallis, magna ex fermentum purus, vel suscipit est odio sit amet felis. Pellentesque non nibh elementum, varius lorem eu, sagittis erat. Suspendisse ultricies cursus eros consequat fermentum. Aenean vestibulum feugiat neque ut suscipit. Vivamus blandit risus ex, quis ultricies mi maximus nec. Quisque sagittis est vitae nulla varius, id efficitur sem vestibulum. Pellentesque varius lectus sit amet finibus tincidunt. Nam aliquet, mi non laoreet finibus, ex tellus fermentum ligula, sit amet pretium orci massa nec ipsum. Pellentesque laoreet sem ligula, sit amet ultricies libero fermentum ac. Proin condimentum lacinia neque ut rutrum.
+        <br>
+        Sed sit amet enim ac ipsum blandit condimentum in a dolor. Suspendisse eu egestas arcu, vitae porta sem. Vestibulum nisi sapien, dictum ac mauris at, tristique bibendum lorem. Pellentesque lacinia ex sed arcu malesuada, et condimentum lectus pharetra. Vestibulum eros libero, varius id ante ut, condimentum eleifend leo. Morbi eu dui a nunc viverra mattis a eget justo. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis mollis nunc. Ut at quam bibendum, dignissim diam vitae, porta nisl. Integer vitae purus quis velit tincidunt tincidunt.
+        <br>
+        Nunc rutrum placerat ligula ultrices sodales. Ut pulvinar ac risus ac feugiat. Aliquam odio purus, elementum at commodo vitae, finibus eget purus. Aliquam eu risus tempor, tincidunt purus vitae, ullamcorper felis. Fusce a quam rhoncus, convallis lacus in, efficitur urna. Nunc ante ligula, aliquet vitae diam vel, rhoncus vulputate leo. Nam condimentum eleifend risus nec ullamcorper. Suspendisse in urna imperdiet, faucibus magna vitae, commodo erat. Nullam felis lorem, condimentum eget enim non, aliquet tincidunt lectus. Vivamus sollicitudin dolor ut magna congue dapibus. Nulla finibus mi a metus dapibus auctor. Quisque ut laoreet nisl, et aliquet lorem. Morbi pharetra, quam id pulvinar tristique, tortor massa dictum velit, non placerat lacus nisi eget risus. Fusce ultricies auctor quam, pulvinar egestas magna aliquam auctor.
+        <br>
+        Nam id sodales turpis. Duis iaculis odio sed lectus lacinia, a finibus lacus accumsan. Quisque blandit dolor ultrices eros mollis, quis pulvinar odio sagittis. Duis ultrices augue eu erat ultricies, ac sollicitudin nulla rhoncus. Praesent vel lorem ac quam varius aliquam. Nam in sem quis urna vehicula hendrerit. Proin pellentesque et nibh vitae lacinia. Vivamus interdum tincidunt eros ac lobortis. Integer eu fermentum sem. Ut et dapibus est, sed interdum dolor. Ut scelerisque id est ultricies finibus. Nam nisi nulla, dignissim non condimentum a, egestas sed velit. Proin pellentesque efficitur lorem, at pretium elit rutrum eget. Integer nulla turpis, aliquam nec urna at, accumsan lobortis turpis.
     </div>
 </div>

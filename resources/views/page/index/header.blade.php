@@ -6,8 +6,8 @@
             <div class="container">
                 <div class="row">
                     <div class="intro-text">
-                        <h1>Touché</h1>
-                        <p>Restaurant / Coffee / Pub</p>
+                        <h1>METRIX-ÉPÍTŐ</h1>
+                        <p>...A jövőt építjük!</p>
                         <a href="#about" class="btn btn-custom btn-lg page-scroll">Discover Story</a> </div>
                 </div>
             </div>
