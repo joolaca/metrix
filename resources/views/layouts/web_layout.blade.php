@@ -7,7 +7,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="format-detection" content="telephone=no"/>
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-    <title>{{ config('app.name', 'Metrix') }}</title>
+    <title>Metrix-Építő Kft.</title>
 
 
     <!-- Links -->
@@ -31,13 +31,18 @@
 
 </head>
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-<!-- Navigation
-    ==========================================-->
+<div class="container">
+    @include('flash::message')
+</div>
+<!-- Navigation ==========================================-->
 {!!  \App\Http\Controllers\MenuController::renderFrontendMenu()!!}
 
 @yield('content')
 
 <script type="text/javascript" src="{{ URL::asset('/js/assets.js') }}"></script>
+<script type="text/javascript" src="{{ URL::asset('/js/index.js') }}"></script>
 
+<!-- flash::message ==========================================-->
+<script> $('#flash-overlay-modal').modal(); </script>
 </body>
 </html>

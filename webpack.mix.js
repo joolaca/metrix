@@ -100,7 +100,6 @@ if (mix.inProduction) {
         'resources/assets/touche/js/nivo-lightbox.js',
         'resources/assets/touche/js/jquery.isotope.js',
         'resources/assets/touche/js/jqBootstrapValidation.js',
-        'resources/assets/touche/js/contact_me.js',
         'resources/assets/touche/js/SmoothScroll.js',
         'resources/assets/touche/js/main.js',
     ], 'public/js/assets.js');

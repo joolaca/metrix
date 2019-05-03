@@ -12,6 +12,7 @@
 */
 
 Route::get('', 'IndexPageController@renderIndexPage');
+Route::post('/send_contact_email', 'IndexPageController@sendContactEmail')->name('send_contact_email');
 
 Route::get('/login', 'Auth\LoginController@showLoginForm');
 Route::post('/login', 'Auth\LoginController@login')->name('login');

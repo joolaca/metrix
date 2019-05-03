@@ -2,22 +2,101 @@
 <div id="restaurant-menu">
     <div class="section-title text-center center">
         <div class="overlay">
-            <h2>Bővebb sszöveg jön ide</h2>
+            <h2>CÉGISMERTETŐ</h2>
             <hr>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed.</p>
+            <p></p>
         </div>
     </div>
     <div class="container">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim ipsum a ullamcorper euismod. Curabitur tincidunt rutrum blandit. In elit purus, venenatis in bibendum quis, aliquam et magna. Maecenas commodo, nibh a ultricies condimentum, quam leo blandit mi, id viverra metus ligula dignissim purus. Sed sed tortor id quam maximus imperdiet. Nullam nec hendrerit nisl. Cras congue tortor et tellus luctus, at blandit ante auctor. Phasellus laoreet purus justo, vel sollicitudin purus tristique et. Mauris eleifend, eros tincidunt scelerisque facilisis, felis sapien hendrerit sapien, rhoncus aliquam arcu elit eget felis. Sed posuere, dui ac suscipit ultrices, justo velit facilisis sem, vitae hendrerit mi nisi et ligula. Mauris ornare ultricies enim eu sodales.
-        <br>
-        Vestibulum luctus metus et tortor gravida, eu feugiat nisl tristique. Nunc tristique hendrerit sodales. Aenean in magna orci. Vestibulum tempor egestas neque, ut aliquet magna. Nulla nec auctor massa, non eleifend enim. Nunc condimentum sodales enim sit amet pretium. Cras pulvinar leo efficitur risus bibendum, sit amet viverra lacus sollicitudin. Fusce cursus lacus risus, a mollis dolor aliquam id. Quisque ut tincidunt dolor. Mauris tempus neque in lacus porttitor, et fermentum eros luctus. Fusce rhoncus facilisis volutpat. Pellentesque ut orci dapibus, euismod felis ut, vehicula est. Vestibulum vitae arcu eu elit pretium interdum. Ut pharetra pellentesque augue. Aenean vulputate magna vel ex posuere, in efficitur justo facilisis. Duis commodo nibh ipsum, quis auctor elit tempor vitae.
-        <br>
-        Proin ultrices, augue tristique luctus convallis, magna ex fermentum purus, vel suscipit est odio sit amet felis. Pellentesque non nibh elementum, varius lorem eu, sagittis erat. Suspendisse ultricies cursus eros consequat fermentum. Aenean vestibulum feugiat neque ut suscipit. Vivamus blandit risus ex, quis ultricies mi maximus nec. Quisque sagittis est vitae nulla varius, id efficitur sem vestibulum. Pellentesque varius lectus sit amet finibus tincidunt. Nam aliquet, mi non laoreet finibus, ex tellus fermentum ligula, sit amet pretium orci massa nec ipsum. Pellentesque laoreet sem ligula, sit amet ultricies libero fermentum ac. Proin condimentum lacinia neque ut rutrum.
-        <br>
-        Sed sit amet enim ac ipsum blandit condimentum in a dolor. Suspendisse eu egestas arcu, vitae porta sem. Vestibulum nisi sapien, dictum ac mauris at, tristique bibendum lorem. Pellentesque lacinia ex sed arcu malesuada, et condimentum lectus pharetra. Vestibulum eros libero, varius id ante ut, condimentum eleifend leo. Morbi eu dui a nunc viverra mattis a eget justo. Suspendisse potenti. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse quis mollis nunc. Ut at quam bibendum, dignissim diam vitae, porta nisl. Integer vitae purus quis velit tincidunt tincidunt.
-        <br>
-        Nunc rutrum placerat ligula ultrices sodales. Ut pulvinar ac risus ac feugiat. Aliquam odio purus, elementum at commodo vitae, finibus eget purus. Aliquam eu risus tempor, tincidunt purus vitae, ullamcorper felis. Fusce a quam rhoncus, convallis lacus in, efficitur urna. Nunc ante ligula, aliquet vitae diam vel, rhoncus vulputate leo. Nam condimentum eleifend risus nec ullamcorper. Suspendisse in urna imperdiet, faucibus magna vitae, commodo erat. Nullam felis lorem, condimentum eget enim non, aliquet tincidunt lectus. Vivamus sollicitudin dolor ut magna congue dapibus. Nulla finibus mi a metus dapibus auctor. Quisque ut laoreet nisl, et aliquet lorem. Morbi pharetra, quam id pulvinar tristique, tortor massa dictum velit, non placerat lacus nisi eget risus. Fusce ultricies auctor quam, pulvinar egestas magna aliquam auctor.
-        <br>
-        Nam id sodales turpis. Duis iaculis odio sed lectus lacinia, a finibus lacus accumsan. Quisque blandit dolor ultrices eros mollis, quis pulvinar odio sagittis. Duis ultrices augue eu erat ultricies, ac sollicitudin nulla rhoncus. Praesent vel lorem ac quam varius aliquam. Nam in sem quis urna vehicula hendrerit. Proin pellentesque et nibh vitae lacinia. Vivamus interdum tincidunt eros ac lobortis. Integer eu fermentum sem. Ut et dapibus est, sed interdum dolor. Ut scelerisque id est ultricies finibus. Nam nisi nulla, dignissim non condimentum a, egestas sed velit. Proin pellentesque efficitur lorem, at pretium elit rutrum eget. Integer nulla turpis, aliquam nec urna at, accumsan lobortis turpis.
+        <p>
+            Az építőipari piaci trendekhez igazodva a cégünk legfontosabb terméke az igényes, magas-
+            és mélyépítési létesítmények megvalósítása Magyarországon. Szolgáltatásainkat mindig az
+            aktuális projektekhez igazítva kínáljuk a következő tevékenységi körökben:
+            műszaki-gazdasági tanácsadás, pályázat előkészítés
+            szakági tervezés
+            projekt menedzsment
+            beruházás-szervezés műszaki ellenőrzés
+            generál kivitelezés gépészeti szakágim speciális építési technológiák, út-mélyépítés,
+            környezetvédelmi, vízgazdálkodási létesítmények kivitelezése
+            ingatlanfejlesztés- ingatlanforgalmazás
+            generál,- szakági tervek készítése
+        </p>
+
+        <p>
+            Elkötelezettek vagyunk a szabályozott, minőségi munkavégzés iránt. A minőségtervezési,
+            ellenőrzési és adminisztrációs gyakorlatunk a minőséget projektszinten is garantálja.
+        </p>
+
+
+        <div class=" see_also_container">
+            <div style="text-align: center">
+                <input class="see_also_btn btn btn-custom btn-lg" type="button" value="Tovább">
+            </div>
+            <div class="see_also_content">
+                <h3>
+                    Szakembereink
+                </h3>
+                <p>
+                    Dolgozói létszámunk megbízható, magas szakmai ismeretekkel rendelkező
+                    szakmunkásokból és elhivatott vezetőkből tevődik össze. Ők képezik törzslétszámunk javát,
+                    közülük több éve cégünk alkalmazottai…
+                </p>
+                <p>
+                    A projektszemlélettel párosult szakmai tudás birtokában kiváló és tehetséges szakembereink
+                    a legbonyolultabb építési feladatokat is megoldják. Valamennyi vezetőnk, és dolgozónk
+                    széles körű építőipari gyakorlattal rendelkezik. Vállalkozásaink és csapataink szakértelmét
+                    az esztétikájukban és funkcionalitásukban kiteljesedő, magas minőségi követelményeknek
+                    eleget tevő referencia munkáink igazolják.
+                </p>
+                <h3>Szakmai tevékenység ismertetése</h3>
+                <p>
+                    Kivitelezői tevékenységünk, elsősorban középületek, iskolák, óvodák, egyéb oktatási
+                    intézmények, szállodák, csarnok épületek, társasházak, sport létesítmények építésére
+                    felújítására, bővítésére koncentrálódott, országos szinten. Ezen túlmenően saját
+                    beruházásban is végzünk ingatlanfejlesztéseket, társasház építéseket.
+                </p>
+                <p>
+                    Teljes körű építőipari tevékenységet folytatunk a tervezéstől a kulcsrakész kivitelezésig.
+                    Az alábbi szolgáltatásokkal állunk Tisztelt megrendelőink rendelkezésére:
+                </p>
+                <ul>
+                    <li>Generál tervezés: Építészet</li>
+                    <li>Statika</li>
+                    <li>Épületgépészet -energetika</li>
+                    <li>Építésszervezés: - Fövállalkozás, bonyolítás</li>
+                    <li>Müszaki vezetés</li>
+                    <li>Müszaki ellenörzés</li>
+                    <li>Szaktanácsadás</li>
+                    <li>Építöipari kivitelezés: - Mélyépítés</li>
+                    <li>Építömesteri munkák</li>
+                    <li>Szakipari munkák</li>
+                    <li>Épületgépészeti munkák</li>
+                    <li>Speciális szigetelések</li>
+                    <li>Müemlék épületek felújítási munkái</li>
+                    <li>Mélyépítési munkák, környezetvédelmi és
+                        vízgazdálkodási létesítmények</li>
+                </ul>
+
+                <p>
+                    Dolgozói létszámunk 14 fő szakmai összetételünk az építőmesteri munkák mellett szakipari
+                    területekre is kiterjed: tetőfedő, bádogos, burkoló, épületszigetelő, lakatos, segédmunkás,
+                    könnyűgépkezelő.
+                </p>
+                <p>
+                    A termelés irányítói és kiszolgálói feladatokat 4 fő vezető és 1 fő anyagbeszerző, 1 fő
+                    műszaki előkészítő 1 fő gazdasági vezető látja el.
+                </p>
+                <p>
+                    Stratégiai célként tűztük ki a meglévő tanúsítási rendszerek működtetése mellett egy
+                    hatékony vállalatirányítási rendszer bevezetését: ennek részeként pénzügyi menedzsment,
+                    szervezetfejlesztés, hatékonyságfejlesztés valamint kontroling rendszer bevezetését
+                    tervezzük. Ennek érdekében mind dolgozóink, mind vezetőink folyamatos képzésére nagy
+                    hangsúlyt fektetünk.
+                </p>
+            </div>
+        </div>
+
+
     </div>
 </div>
+

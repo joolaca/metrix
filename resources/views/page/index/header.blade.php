@@ -8,7 +8,7 @@
                     <div class="intro-text">
                         <h1>METRIX-ÉPÍTŐ</h1>
                         <p>...A jövőt építjük!</p>
-                        <a href="#about" class="btn btn-custom btn-lg page-scroll">Discover Story</a> </div>
+                        {{--<a href="#about" class="btn btn-custom btn-lg page-scroll">Discover Story</a> </div>--}}
                 </div>
             </div>
         </div>
